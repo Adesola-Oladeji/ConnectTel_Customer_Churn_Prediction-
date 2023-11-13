@@ -1,6 +1,6 @@
 # ConnectTel_Customer_Churn_Prediction-
 
-A case study of ConnecctTel Telecomm
+
 
 ![image](https://daxg39y63pxwu.cloudfront.net/images/blog/churn-models/Customer_Churn_Prediction_Models_in_Machine_Learning.png)
 AIM: 
